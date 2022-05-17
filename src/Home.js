@@ -62,9 +62,13 @@ const Home = () => {
                 <span>&#183;</span>
                 <p>{data.location}</p>
               </div>
+              <hr className="only_mobile"/>
             </div>
             <div></div>
+       
+          
           </div>
+ 
           <div className="sectionright">
             <div>
               <button style={{ border: "none" }}>{data.role}</button>{" "}
