@@ -238,10 +238,11 @@
   }
   .sectionright {
     display: flex;
-   width: 290px;
+   width: 270px;
    flex-wrap: wrap;
    margin: 10px;
   margin-left: 80px;
+  margin-right: 20px;
    
   }
   .sectionright > div {
